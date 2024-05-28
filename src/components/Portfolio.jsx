@@ -1,5 +1,4 @@
 import React from 'react'
-import food from "../assets/food-ordering.jpg"
 import training from "../assets/training-1-1024x691.jpg"
 import reporting from "../assets/data-visualization.jpg"
 
